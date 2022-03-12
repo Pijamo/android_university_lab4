@@ -23,7 +23,7 @@ import retrofit2.converter.gson.GsonConverterFactory
 </Your> */
 
 // TODO: Place the below API key with your own generated key
-private const val API_KEY = "<Add API KEY HERE>"
+private const val API_KEY = "2tJwJ0EVmXfrREiWPG5MGvl5bIkZXOpv"
 
 private const val API_FILTER = "headline, web_url, snippet, pub_date, word_count, print_page, print_section, section_name"
 private const val BEGIN_DATE = "20100101"
